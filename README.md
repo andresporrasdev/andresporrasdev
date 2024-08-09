@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresporrasdev&theme=prussian" alt="andresporrasdev" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresporrasdev&layout=donut&theme=prussian)](https://github.com/andresporrasdev/github-readme-stats)
