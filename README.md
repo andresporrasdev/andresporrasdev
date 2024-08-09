@@ -6,7 +6,7 @@
 <ul>- 🏣 Graduate from Computer Programming in Algonquin College</ul>
 <ul>- 🙋 Full-time job available from September 2024</ul>
 <ul>- 🌱 I’m currently learning **Spring Boot** </ul>
-<ul>- 📫 Reach me **camilop1730@gmail.com** </ul>
+<ul>- 📫 Reach me <a href="mailto:camilop1730@gmail.com">camilop1730@gmail.com</a></ul>
 <ul>- 🌎 LinkedIn: www.linkedin.com/in/andresporrasdev</ul>
 
 <h3>My skills</h3>
