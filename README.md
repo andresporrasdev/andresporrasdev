@@ -1,18 +1,35 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<h4 align="center">I learn by playing with the code, not with theory lectures</h4>
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 📫 Reach me **camilop1730@gmail.com**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresporrasdev&label=Profile%20views&color=0e75b6&style=flat" alt="andresporrasdev" /> </p>
+<h3>About me</h3>
+<ul>- 😊 Full Stack Developer</ul>
+<ul>- 🏣 Graduate from Computer Programming in Algonquin College</ul>
+<ul>- 🙋 Full-time job available from September 2024</ul>
+<ul>- 🌱 I’m currently learning **Spring Boot** </ul>
+<ul>- 📫 Reach me **camilop1730@gmail.com** </ul>
+<ul>- 🌎 LinkedIn: www.linkedin.com/in/andresporrasdev</ul>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresporrasdev&theme=nord" alt="andresporrasdev" /></a> </p>
+<h3>My skills</h3>
+<ul>- 📘 Back-end: Java, NodeJS, Python</ul>
+<ul>- 📙 Front-end: HTML, CSS, JavaScript, ReactJS, AJAX, Bootstrap</ul>
+<ul>- 📒 Database: MySQL, MongoDB, Oracle, SQL Server, MS Access, PostgreSQL</ul>
+<ul>- 📗 Operating systems: Windows, Linux, MacOS</ul>
+<ul>- 📕 Tools: VSCode, GitHub, Intellij, Postman, NetBean, Eclipse, Android Studio</ul>
+<ul>- 📒 Machine Learning: RapidMiner, Weka</ul>
+<ul>- 📘 CMS: Joomla, Wordpress, Divi</ul>
+<ul>- 📒 Networking: TCP/IP, Wireshark, Windows Server, Firewall and Wireless setup, subnetting</ul>
 
+<h3>My languages</h3>
+<ul>- 🇺🇸 English</ul>
+<ul>- 🇫🇷 French</ul>
+<ul>- 🇪🇸 Spanish</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresporrasdev&theme=prussian&show_icons=true&locale=en" alt="andresporrasdev" /></p>
+<h3>Other interesting skills</h3>
+<ul>- 🎨 Illustrator</ul>
+<ul>- 📷 Photoshop</ul>
+<ul>- 🖌️ CorelDraw </ul>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresporrasdev&theme=prussian" alt="andresporrasdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresporrasdev&theme=prussian&show_icons=true&locale=en" alt="andresporrasdev" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresporrasdev&layout=donut&theme=prussian)](https://github.com/andresporrasdev/github-readme-stats)
