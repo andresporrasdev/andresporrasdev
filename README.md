@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresporrasdev&label=Profile%20views&color=0e75b6&style=flat" alt="andresporrasdev" /> </p>
 <h3>About me</h3>
 <ul>- 😊 Full Stack Developer</ul>
-<ul>- 🏣 Graduate from Computer Programming in Algonquin College</ul>
+<ul>- 🏣 Graduated with Honours in Computer Programming at Algonquin College</ul>
 <ul>- 🙋 Full-time job available from September 2024</ul>
-<ul>- 🌱 I’m currently learning **Spring Boot** </ul>
+<ul>- 🌱 I’m currently improving **React** skills </ul>
 <ul>- 📫 Reach me <a href="mailto:camilop1730@gmail.com">camilop1730@gmail.com</a></ul>
 <ul>- 🌎 LinkedIn: www.linkedin.com/in/andresporrasdev</ul>
 
