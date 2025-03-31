@@ -4,8 +4,8 @@
 <h3>About me</h3>
 <ul>- 😊 Full Stack Developer</ul>
 <ul>- 🏣 Graduated with Honours in Computer Programming at Algonquin College</ul>
-<ul>- 🙋 Full-time job available from September 2024</ul>
-<ul>- 🌱 I’m currently improving **React** skills </ul>
+<ul>- 🙋 Full-time job available</ul>
+<ul>- 🌱 I’m currently improving **Backend** skills </ul>
 <ul>- 📫 Reach me <a href="mailto:camilop1730@gmail.com">camilop1730@gmail.com</a></ul>
 <ul>- 🌎 LinkedIn: www.linkedin.com/in/andresporrasdev</ul>
 
